@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\publisher\WebApi</_PublishTargetUrl>
+    <History>True|2022-10-27T20:26:06.5557322Z;False|2022-10-27T15:25:20.0084733-05:00;True|2022-10-27T15:06:02.3183700-05:00;</History>
+  </PropertyGroup>
+</Project>
