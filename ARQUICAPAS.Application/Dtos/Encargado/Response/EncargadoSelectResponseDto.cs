@@ -4,5 +4,6 @@
     {
         public int EncargadoId { get; set; }
         public string? Name { get; set; }
+
     }
 }

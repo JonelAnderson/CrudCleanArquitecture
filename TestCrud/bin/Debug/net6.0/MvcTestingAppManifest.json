@@ -1,0 +1,7 @@
+{
+  "ARQUICAPAS.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Ciclos-Unas\\Ciclo 2022-I\\Patrones de Arquitectura\\ARQUICAPAS\\ARQUICAPAS.Application",
+  "ARQUICAPAS.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Ciclos-Unas\\Ciclo 2022-I\\Patrones de Arquitectura\\ARQUICAPAS\\ARQUICAPAS.Domain",
+  "ARQUICAPAS.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Ciclos-Unas\\Ciclo 2022-I\\Patrones de Arquitectura\\ARQUICAPAS\\ARQUICAPAS.Infrastructure",
+  "ARQUICAPAS.Utilities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Ciclos-Unas\\Ciclo 2022-I\\Patrones de Arquitectura\\ARQUICAPAS\\ARQUICAPAS.Utilities",
+  "ARQUICAPAS.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Ciclos-Unas\\Ciclo 2022-I\\Patrones de Arquitectura\\ARQUICAPAS\\ARQUICAPAS.WebApi"
+}

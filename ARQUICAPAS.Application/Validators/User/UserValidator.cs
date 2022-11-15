@@ -1,10 +1,5 @@
 ﻿using ARQUICAPAS.Application.Dtos.User.Request;
 using FluentValidation;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ARQUICAPAS.Application.Validators.User
 {
